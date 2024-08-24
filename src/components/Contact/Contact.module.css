@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.phone {
+  font-size: 20px;
+}
+
+.name {
+  font-size: 20px;
+}
+.icon {
+  margin-right: 10px;
+}
+.deleteBtn {
+  height: 30px;
+  padding: 5px;
+  background-color: rgb(253, 13, 105);
+  color: white;
+  border-radius: 5px;
+  border-style: none;
+  cursor: pointer;
+  font-size: 18px;
+}

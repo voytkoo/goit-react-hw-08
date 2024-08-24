@@ -1,0 +1,14 @@
+.userContainer {
+  margin: 0 auto;
+  padding-top: 100px;
+}
+.logoutBtn {
+  border-radius: 5px;
+  padding: 12px 10px;
+  background: white;
+  border-style: none;
+  cursor: pointer;
+  color: rgb(42, 207, 236);
+  font-size: 18px;
+  font-weight: 500;
+}

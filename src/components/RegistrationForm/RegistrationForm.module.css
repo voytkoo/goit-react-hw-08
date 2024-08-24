@@ -1,0 +1,63 @@
+.form {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  margin: 40px auto;
+  gap: 5px;
+  border: 1px solid #242424;
+  border-radius: 5px;
+  padding: 30px 40px;
+  width: 506px;
+  background: rgba(255, 255, 255, 0.04);
+}
+.formTitle {
+  text-align: center;
+}
+
+.label {
+  font-weight: 600;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+
+.field {
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 5px;
+  padding: 12px 14px;
+  background: rgba(255, 255, 255, 0.05);
+  font-weight: 400;
+  font-size: 15px;
+  letter-spacing: -0.01em;
+}
+
+.registerBtn {
+  border-radius: 3px;
+  padding: 15px 10px;
+  background: linear-gradient(90deg, #3ac0f5 0%, #054858 100%);
+  border-style: none;
+  cursor: pointer;
+  margin-top: 40px;
+  font-size: 18px;
+}
+
+.link {
+  font-size: 20px;
+  text-decoration: none;
+  color: #1770e4;
+}
+
+.text {
+  display: flex;
+  gap: 15px;
+  font-size: 20px;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.errorMessage {
+  color: rgb(228, 8, 8);
+  font-weight: 500;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}

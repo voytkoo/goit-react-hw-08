@@ -1,0 +1,13 @@
+.links {
+  display: flex;
+  gap: 40px;
+}
+.link {
+  text-decoration: none;
+  &:hover {
+    color: lavender;
+  }
+}
+.active {
+  color: cornflowerblue;
+}

@@ -1,0 +1,17 @@
+.contactsContainer {
+  display: flex;
+  margin-top: 50px;
+  margin-left: 100px;
+  gap: 60px;
+}
+
+.searchContainer {
+  border: 1px solid #0f0f0f;
+  border-radius: 5px;
+  padding: 30px 40px;
+  width: 506px;
+  background: rgba(66, 18, 18, 0.04);
+}
+.loading {
+  text-align: center;
+}
